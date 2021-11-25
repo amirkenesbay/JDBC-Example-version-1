@@ -1,3 +1,5 @@
+package JDBCEXampleByTutorial;
+
 import java.io.IOException;
 import java.sql.*;
 
